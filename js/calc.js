@@ -7,28 +7,28 @@ function calculateSum() {
 
 		let pimg = [];
 		pimg[0] = '';
-		pimg[1] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/01.jpg';
-		pimg[2] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/02.jpg';
-		pimg[3] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/03.jpg';
-		pimg[4] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/04.jpg';
-		pimg[5] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/05.jpg';
-		pimg[6] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/06.jpg';
-		pimg[7] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/07.jpg';
-		pimg[8] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/08.jpg';
-		pimg[9] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/09.jpg';
-		pimg[10] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/10.jpg';
-		pimg[11] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/11.jpg';
-		pimg[12] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/12.jpg';
-		pimg[13] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/13.jpg';
-		pimg[14] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/14.jpg';
-		pimg[15] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/15.jpg';
-		pimg[16] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/16.jpg';
-		pimg[17] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/17.jpg';
-		pimg[18] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/18.jpg';
-		pimg[19] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/19.jpg';
-		pimg[20] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/20.jpg';
-		pimg[21] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/21.jpg';
-		pimg[22] =	'https://raw.githubusercontent.com/Metalsyava/Metalsyava.github.io/refs/heads/main/img/22.jpg';
+		pimg[1] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/01.jpg';
+		pimg[2] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/02.jpg';
+		pimg[3] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/03.jpg';
+		pimg[4] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/04.jpg';
+		pimg[5] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/05.jpg';
+		pimg[6] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/06.jpg';
+		pimg[7] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/07.jpg';
+		pimg[8] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/08.jpg';
+		pimg[9] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/09.jpg';
+		pimg[10] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/10.jpg';
+		pimg[11] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/11.jpg';
+		pimg[12] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/12.jpg';
+		pimg[13] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/13.jpg';
+		pimg[14] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/14.jpg';
+		pimg[15] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/15.jpg';
+		pimg[16] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/16.jpg';
+		pimg[17] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/17.jpg';
+		pimg[18] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/18.jpg';
+		pimg[19] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/19.jpg';
+		pimg[20] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/20.jpg';
+		pimg[21] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/21.jpg';
+		pimg[22] =	'https://raw.githubusercontent.com/taronumerologie/taronumerologie.github.io/refs/heads/main/img/22.jpg';
 
 
 		
